@@ -1,6 +1,6 @@
 # RongYe.Liu
 
-<img src="https://orangesai.com/orange.png" alt="avatar" width="100" height="100">
+<img src="http://static.aileader.top/image/logo.png" alt="avatar" width="100" height="100">
 
 
 ## About Me
