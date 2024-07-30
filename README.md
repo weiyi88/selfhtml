@@ -1,24 +1,26 @@
-# RongYe.Liu
+# RongeYe.LIU
 
 <img src="http://static.aileader.top/image/logo.png" alt="avatar" width="100" height="100">
 
+## About Me 
+- AIGC Development Engineer proficient in Python and TypeScript, with expertise in FastAPI, Docker, Next.js, PostgreSQL, and prompt engineering.
 
-## About Me
+- Project Experience focused on the AIGC field, successfully implemented multiple projects, improving business efficiency by over 30% and optimizing text generation and knowledge base construction.
 
-AI Research: at a AI startup company.
+- Technical Skills familiar with RAG technology, model fine-tuning, and AI agent development, driving the implementation of intelligent dialogue and drawing features, significantly enhancing user experience.
 
-Product Management: connect and align all teams.
+- Leadership and Management skilled in system architecture design and team management, with extensive project implementation experience.
 
-Learning by Sharing: stay hungry.
 
-## Creative Archive 
+## Creative Archive
+Twitter [@Aring](https://x.com/Aring70652619)
 
-Twitter [@Aring](https://twitter.com/Aring70652619) 
+CSDN [@Aring88](http://m6z.cn/6sNbU2)
 
-CSDN [Aring](https://blog.csdn.net/weixin_43272542?type=edu)
+
+Telegram [@Aring](https://t.me/joker637)
 
 
 
 ## Contact Me
-
-Email <a href="mailto:rongye.liu88@gmail.com">rongye.liu88@gmail.com</a>
+Email [rongye.liu88@gmail.com](mailto:rongye.liu88@gmail.com)
