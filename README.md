@@ -18,9 +18,6 @@ Twitter [@Aring](https://x.com/Aring70652619)
 CSDN [@Aring88](http://m6z.cn/6sNbU2)
 
 
-Telegram [@Aring](https://t.me/joker637)
-
-
 
 ## Contact Me
 Email [rongye.liu88@gmail.com](mailto:rongye.liu88@gmail.com)
